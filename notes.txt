@@ -1,0 +1,12 @@
+pluralsight dev env course
+
+
+Git hub:
+1. Stage all files changed
+	git add.
+	
+2. Commit changes locally
+	git commit -m "comment here"
+	
+3. Push work to Github
+	git push
